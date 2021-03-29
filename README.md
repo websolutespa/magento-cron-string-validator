@@ -1,4 +1,4 @@
-# Magento 2 Module: CronSemaphore
+# Magento 2 Module: CronStringValidator
 
 ## How to use
 
