@@ -1,5 +1,5 @@
 {
-  "name": "websolute/magento-cron-string-validator",
+  "name": "websolutespa/magento-cron-string-validator",
   "description": "This Magento 2 Module add a new cron backend validator",
   "type": "magento2-module",
   "require": {
